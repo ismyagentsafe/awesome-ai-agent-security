@@ -173,6 +173,7 @@ MCP lets agents connect to external tools and data. Every tool description and t
 - 💼 [Lakera Guard](https://www.lakera.ai/) — Real-time LLM security API (injection, jailbreaks, leakage); acquired by Check Point.
 - 💼 [HiddenLayer](https://www.hiddenlayer.com/) — Enterprise AI security: supply-chain scanning, runtime defense, red-teaming.
 - 💼 [Protect AI](https://protectai.com/) — LLM Guard's maintainer; enterprise ML/LLM security platform (now part of Palo Alto Networks).
+- 💼 [Is My Agent Safe](https://ismyagentsafe.com/check) — Explains OpenClaw's own security audit in plain English: paste the audit and version output and get a red, amber or green result, with the most important fix first (commercial; the check is free, and a full report is $29).
 
 ---
 
